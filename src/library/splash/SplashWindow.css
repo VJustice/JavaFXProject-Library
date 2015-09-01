@@ -1,0 +1,18 @@
+.label {
+    -fx-font-family: Georgia, "Times New Roman", Times, serif;
+    -fx-font-size:40px;
+	-fx-margin-top: 5px; margin-bottom: 0px;
+	-fx-text-align: center;
+    -fx-font-weight: normal;
+}
+
+.button {
+    -fx-background-color: #dc4642;
+    -fx-font-size:16px;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+.button:hover {
+    -fx-background-color: #B80000;
+}

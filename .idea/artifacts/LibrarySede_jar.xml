@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LibrarySede:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibrarySede_jar</output-path>
+    <root id="archive" name="LibrarySede.jar">
+      <element id="module-output" name="LibrarySede" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi-3.1-final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
